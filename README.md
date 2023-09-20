@@ -1,9 +1,7 @@
 <h1 align="center">Welcome to my Github! I am <a href="https://daniilshat.ru/" target="_blank">Alex</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h4 align="right">QA from Yakutia </h4>
-<h4 align="right">Testing enthusiast </h4>
-<h4 align="right">AQA beginner </h4>
-<h4 align="right">Quality defender </h4>
+<h4 align="right">May the testing be with you </h4>
+
 
 #  <img src="https://user-images.githubusercontent.com/125588671/268579290-8c2721ae-3f25-4100-aded-762f38a13a20.png" height="28">  Technologies and tools:
 
