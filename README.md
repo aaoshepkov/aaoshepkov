@@ -4,7 +4,7 @@
 
 
 ### About me:
-I am a manual QA-tester. In order to be up-to-date I continiously study new technologies, methods and tools related to testing. I actively participate in QA-around activities such as online-trainings and follow experienced professionals on social networks. I am progressing as an automation QA-engineer studying Python and testing frameworks like Pytest and Selene. I am looking forward for you to follow me up on GitHub!
+#### I am a manual QA-tester. In order to be up-to-date I continiously study new technologies, methods and tools related to testing. I actively participate in QA-around activities such as online-trainings and follow experienced professionals on social networks. I am progressing as an automation QA-engineer studying Python and testing frameworks like Pytest and Selene. I am looking forward for you to follow me up on GitHub!
 
 ##  Technologies and tools:
 [<img src=https://user-images.githubusercontent.com/125588671/270274240-0b2a1a7a-58a1-4d02-85eb-f0490384cd7f.png height="60">](https://developer.chrome.com/docs/devtools/)
