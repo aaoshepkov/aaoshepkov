@@ -32,6 +32,7 @@ I am a manual QA-tester. In order to be up-to-date I continiously study new tech
 
 
 ## You can reach me through: 
-[<img src=https://user-images.githubusercontent.com/125588671/270319455-77160d6c-2e11-40fa-9ee2-e0a38851fcc8.png height="68">](aaoshepkov@gmail.com)
-[LinkedIn](https://www.linkedin.com/in/aleksandr-oshchepkov-a63189b3/)
+[<img src=https://user-images.githubusercontent.com/125588671/270321674-1bf2eaef-9560-4ecf-b89f-8eca9718ef9c.svg height="68">](https://www.linkedin.com/in/aleksandr-oshchepkov-a63189b3/)
+[<img src=https://user-images.githubusercontent.com/125588671/270321776-b105c2d3-c7e1-48f6-a5a0-637e0845e3df.svg height="60">](https://t.me/alxosh)
+
 
