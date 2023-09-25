@@ -25,6 +25,7 @@ I am a manual QA-tester. In order to be up-to-date I continiously study new tech
 [<img src=https://user-images.githubusercontent.com/125588671/270273368-d129f5f6-f915-4ca5-b988-a08690af4e83.svg height="68">](https://www.notion.so/855cff8aaac84a25ab67cf273351f578)
 [<img src=https://user-images.githubusercontent.com/125588671/270273326-1bea1010-d113-46fb-84f6-9899c9bda888.svg height="68">](https://miro.com/app/dashboard/)
 [<img src=https://user-images.githubusercontent.com/125588671/270273363-b893f6b8-4e06-45df-9596-0a16932a597f.svg height="68">](https://mattermost.com/)
+[<img src=https://user-images.githubusercontent.com/125588671/270274256-63b29f77-2d67-4d04-86be-f15e28170d5b.png height="68">](https://chlist.sitechco.ru/)
 
 
 ### I am putting all of my projects here, follow me to see more.
