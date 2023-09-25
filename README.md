@@ -32,6 +32,9 @@ ______________________________
 ### I am putting all of my projects here, follow me to see more.
 ______________________________
 
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaoshepkov&show_icons=true&theme=transparent)
+
+
 
 ### You can reach me through: 
 [<img src=https://user-images.githubusercontent.com/125588671/270387220-a63e8a9d-da3a-4b9a-b0f8-f4e74907bf1f.svg height="68">](https://www.linkedin.com/in/aleksandr-oshchepkov-a63189b3/)
