@@ -1,11 +1,25 @@
 <h1 align="center">Welcome to my Github! I am <a href="https://daniilshat.ru/" target="_blank">Alex</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h4 align="right">May the testing be with you </h4>
+  
+
+#  Technologies and tools:
 
 
-#  <img src="https://user-images.githubusercontent.com/125588671/268579290-8c2721ae-3f25-4100-aded-762f38a13a20.png" height="28">  Technologies and tools:
-
-[<img src=https://github.com/aaoshepkov/about/assets/125588671/0b2a1a7a-58a1-4d02-85eb-f0490384cd7f height="68">](https://developer.chrome.com/docs/devtools/) [<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg height="68">](https://www.python.org/)
+[<img src=https://user-images.githubusercontent.com/125588671/270274240-0b2a1a7a-58a1-4d02-85eb-f0490384cd7f.png height="68">](https://developer.chrome.com/docs/devtools/)
+[<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg height="68">](https://www.python.org/) 
+[<img src=https://user-images.githubusercontent.com/125588671/270273375-4f4ca48b-1302-431a-a02e-75ce20173789.svg height="68">](https://www.jetbrains.com/ru-ru/pycharm/)
+[<img src=https://user-images.githubusercontent.com/125588671/270273298-7df7439a-85ec-401b-b4e4-10dd87113ead.svg height="68">](https://code.visualstudio.com/)
+[<img src=https://user-images.githubusercontent.com/125588671/270274245-3a66a88f-2788-4cab-a0b8-b89863932bd3.png height="68">](https://docs.pytest.org/en/7.4.x//)
+[<img src=https://user-images.githubusercontent.com/125588671/270274251-12f6bf28-419c-4c34-8b34-8f1c129cb61b.png height="68">](https://github.com/yashaka/selene)
+[<img src=https://user-images.githubusercontent.com/125588671/270273340-0fe26f6c-0682-40e2-afcc-940e1571fb97.svg height="68">](https://github.com/aaoshepkov)
+[<img src=https://user-images.githubusercontent.com/125588671/270273316-ffcef045-2e3b-4528-a211-baa16e5475f1.svg height="68">](https://www.postman.com/)
+[<img src=https://user-images.githubusercontent.com/125588671/270274232-b1cbaabd-c2a7-4b2b-b3b4-c363ff62efaf.png height="68">](https://soapui.ru/)
+[<img src=https://user-images.githubusercontent.com/125588671/270273394-79fb6e1a-e10c-4e8f-8fef-23a902eb6546.svg height="68">](https://swagger.io/)
+[<img src=https://user-images.githubusercontent.com/125588671/270273370-5b4f24c6-187b-44eb-bd6e-fd035d819f05.svg height="68">](https://www.postgresql.org/)
+[<img src=https://user-images.githubusercontent.com/125588671/270273366-773b75c3-9b8d-4eb1-9d31-ab3c2a358fba.svg height="68">](https://www.mysql.com)
+[<img src=https://user-images.githubusercontent.com/125588671/270273337-e7e19966-0ab7-48af-853a-eaa3a1025c85.svg height="68">](https://www.atlassian.com/ru/software/confluence)
+[<img src=https://user-images.githubusercontent.com/125588671/270273360-c7a2539e-3458-48c8-8830-93c87150438e.svg height="68">](https://www.atlassian.com/ru/software/jira)
 
 
 
