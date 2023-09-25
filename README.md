@@ -6,7 +6,7 @@
 ### About me:
 #### I am a manual QA-tester. In order to be up-to-date I continiously study new technologies, methods and tools related to testing. I actively participate in QA-around activities such as online-trainings and follow experienced professionals on social networks. I am progressing as an automation QA-engineer studying Python and testing frameworks like Pytest and Selene. I am looking forward for you to follow me up on GitHub!
 
-##  Technologies and tools:
+###  Technologies and tools:
 [<img src=https://user-images.githubusercontent.com/125588671/270274240-0b2a1a7a-58a1-4d02-85eb-f0490384cd7f.png height="60">](https://developer.chrome.com/docs/devtools/)
 [<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg height="68">](https://www.python.org/) 
 [<img src=https://user-images.githubusercontent.com/125588671/270273375-4f4ca48b-1302-431a-a02e-75ce20173789.svg height="60">](https://www.jetbrains.com/ru-ru/pycharm/)
@@ -25,14 +25,19 @@
 [<img src=https://user-images.githubusercontent.com/125588671/270273368-d129f5f6-f915-4ca5-b988-a08690af4e83.svg height="60">](https://www.notion.so/855cff8aaac84a25ab67cf273351f578)
 [<img src=https://user-images.githubusercontent.com/125588671/270273326-1bea1010-d113-46fb-84f6-9899c9bda888.svg height="60">](https://miro.com/app/dashboard/)
 [<img src=https://user-images.githubusercontent.com/125588671/270273363-b893f6b8-4e06-45df-9596-0a16932a597f.svg height="60">](https://mattermost.com/)
-[<img src=https://user-images.githubusercontent.com/125588671/270274256-63b29f77-2d67-4d04-86be-f15e28170d5b.png height="60">](https://chlist.sitechco.ru/)
+[<img src=https://user-images.githubusercontent.com/125588671/270274256-63b29f77-2d67-4d04-86be-f15e28170d5b.png height="60">](https://chlist.sitechco.ru/)  
+______________________________
 
 
 ### I am putting all of my projects here, follow me to see more.
+______________________________
 
 
-## You can reach me through: 
+### You can reach me through: 
 [<img src=https://user-images.githubusercontent.com/125588671/270387220-a63e8a9d-da3a-4b9a-b0f8-f4e74907bf1f.svg height="68">](https://www.linkedin.com/in/aleksandr-oshchepkov-a63189b3/)
 [<img src=https://user-images.githubusercontent.com/125588671/270387267-9f74c6c8-7adf-4a18-b843-8dfa7ec7f3be.svg height="68">](https://t.me/alxosh)
+[<img src=https://user-images.githubusercontent.com/125588671/270387267-9f74c6c8-7adf-4a18-b843-8dfa7ec7f3be.svg height="68">]( "aaoshepkov@gmail.com")
+[Skillbox Media](https://skillbox.ru/media/ "Всплывающая подсказка")
+
 
 
