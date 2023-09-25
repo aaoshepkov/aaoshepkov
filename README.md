@@ -35,9 +35,7 @@ ______________________________
 
 ### You can reach me through: 
 [<img src=https://user-images.githubusercontent.com/125588671/270387220-a63e8a9d-da3a-4b9a-b0f8-f4e74907bf1f.svg height="68">](https://www.linkedin.com/in/aleksandr-oshchepkov-a63189b3/)
-[<img src=https://user-images.githubusercontent.com/125588671/270387267-9f74c6c8-7adf-4a18-b843-8dfa7ec7f3be.svg height="68">](https://t.me/alxosh)
-[<img src=https://user-images.githubusercontent.com/125588671/270387267-9f74c6c8-7adf-4a18-b843-8dfa7ec7f3be.svg height="68">]( "aaoshepkov@gmail.com")
-[Skillbox Media](https://skillbox.ru/media/ "Всплывающая подсказка")
+[<img src=https://user-images.githubusercontent.com/125588671/270387267-9f74c6c8-7adf-4a18-b843-8dfa7ec7f3be.svg height="68">](https://t.me/alxosh "aaoshepkov@gmail.com")
 
 
 
