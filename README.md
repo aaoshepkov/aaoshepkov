@@ -2,7 +2,7 @@
 <h3 align="right">May the testing be with you </h3>
 
 
-### About me:
+### About me: 
 #### I am a manual QA-tester. In order to be up-to-date I continiously study new technologies, methods and tools related to testing. I actively participate in QA-around activities such as online-trainings and follow experienced professionals on social networks. I am progressing as an automation QA-engineer studying Python and testing frameworks like Pytest and Selene. I am looking forward for you to follow me up on GitHub!
 
 ###  Technologies and tools:
