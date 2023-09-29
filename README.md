@@ -31,7 +31,7 @@ ______________________________
 ### I am putting all of my projects here, follow me to see more.
 ______________________________
 
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaoshepkov&show_icons=true&theme=transparent), [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aaoshepkov)](https://git.io/streak-stats)
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaoshepkov&show_icons=true&theme=transparent)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aaoshepkov)](https://git.io/streak-stats)
 
 
 
