@@ -1,6 +1,5 @@
-<h1 align="center">Welcome to my Github! I am <a href="https://daniilshat.ru/" target="_blank">Alex</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h4 align="right">May the testing be with you </h4>
+<h4 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dangrek&size=40&duration=1000&pause=300&color=1D2EF7&center=true&vCenter=true&multiline=true&repeat=false&width=576&height=127&lines=Hi+there!+I+am+Alex;Welcome+to+my+Github!" alt="Typing SVG" /></a></h4>
+<h3 align="right">May the testing be with you </h3>
 
 
 ### About me:
@@ -32,7 +31,8 @@ ______________________________
 ### I am putting all of my projects here, follow me to see more.
 ______________________________
 
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaoshepkov&show_icons=true&theme=transparent)
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaoshepkov&show_icons=true&theme=transparent), [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aaoshepkov)](https://git.io/streak-stats)
+
 
 
 
