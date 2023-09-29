@@ -1,4 +1,4 @@
-<h4 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dangrek&size=40&duration=1000&pause=300&color=1D2EF7&center=true&vCenter=true&multiline=true&repeat=false&width=576&height=127&lines=Hi+there!+I+am+Alex;Welcome+to+my+Github!" alt="Typing SVG" /></a></h4>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dangrek&size=35&duration=3000&pause=500&color=2224F7&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=150&lines=Hi+there!+I'm+Alex;Welcome+to+my+Github!)](https://git.io/typing-svg)
 <h3 align="right">May the testing be with you </h3>
 
 
